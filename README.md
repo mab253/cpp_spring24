@@ -4,7 +4,7 @@
 **Term:** Spring 2024 \
 **Time:** Mondays/Wednesdays 11:00-11:50am (lecture) \
 **Space:** NAC 1/203 (lecture) \
-**Recitation:** lab on Wednesdays (time based on section, CC1 or CC2), w/Prof. Chunyu Yuan, NAC 7/118 \
+**Recitation:** lab on Wednesdays (time based on section, CC1 or CC2), w/Prof. Chunyu Yuan, NAC 7/107 \
 **Office Hours:** virtual by appointment, [schedule here](https://www.cal.com/mab253) \
 **E-mail:** Madeline Blount - `mblount@ccny.cuny.edu`, Chunyu Yuan - `cyuan1@gradcenter.cuny.edu` \
 City College, City University of New York
