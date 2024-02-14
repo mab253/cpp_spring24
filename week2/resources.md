@@ -1,7 +1,7 @@
 ## 🤖 other resources: week 2
 
 class cancelled! \
-please watch the following videos by Friday instead of lecture this week:
+please watch the following videos by Friday instead of lecture this week: 💥**required!**
 - 🎥 [**MAB short lecture**](https://www.loom.com/share/91046ed491194fc6a5feff3e3abb48e5?sid=cb84c46b-8036-4131-9bf3-3ee987cded61), on variables, data types, integer overflow and floating point imprecision (20min.)
 - 🎥 [**Floating Point Numbers**](https://www.youtube.com/watch?v=PZRI1IfStY0) (computerphile YouTube channel) (9min.)
 
