@@ -71,7 +71,8 @@ zyBooks Week 1 Lab: DUE Feb. 9, 11:59pm
 **Week 2: Feb. 14** \
 *Variables and Data Types*
 
-**NO CLASS** on Monday Feb. 12, CCNY closed 
+**NO CLASS** on Monday Feb. 12, CCNY closed \
+**[VIDEOS POSTED](https://github.com/mab253/cpp_spring24/blob/main/week2/resources.md)** for Feb. 14 class
 
 **Assignments:** \
 zyBooks Week 2, Readings: DUE Feb. 14, 11:59pm \
