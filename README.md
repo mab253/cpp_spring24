@@ -81,7 +81,7 @@ zyBooks Week 2 Lab: DUE Feb. 16, 11:59pm
 
 ---
 
-**Week 3: Feb. 21** \
+**Week 3: Feb. 21 & Feb. 22** \
 *Branches, Logic, and Conditionals*
 
 **NO CLASS** on Monday Feb. 19, holiday 
