@@ -1,6 +1,12 @@
 ## 🤖 other resources: week 3
 
+class moved **remote/async for 2/21 & 2/22!** \
+please watch the following videos by Friday instead of lecture this week: 💥**required!**
+- 🎥 [**MAB short lecture**](https://www.loom.com/share/3b29bc9e155b4c9ca1da1661e738a60a?sid=23ebfa78-5bbe-4b29-a752-731be0419506), on if statements, Boolean logic, guessing games, and Colossal Cave Adventure (40 min.)
+- 🎥 [**Play Colossal Cave Adventure**](https://grack.com/demos/adventure/) (spend some time with this game!) 
+
 other practice + info on logic & conditionals and other topics this week:
+- 🖥️ **code from video**, [number guessing game](https://replit.com/@mab253/number-guess-1#main.cpp)
 - codeacademy c++ quick reference of [`switch` & conditionals](https://www.codecademy.com/resources/docs/cpp/conditionals)
 - harvard cs50 (video) on [Conditional Expressions](https://video.cs50.io/1wsaV5nVC7g) - warning this is in C, but very very similar!
 - harvard cs50 (video) on [Logical Operators](https://video.cs50.io/f1xZf4iJDWE) - again this is about C, but very very similar!
