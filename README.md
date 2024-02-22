@@ -84,7 +84,8 @@ zyBooks Week 2 Lab: DUE Feb. 16, 11:59pm
 **Week 3: Feb. 21 & Feb. 22** \
 *Branches, Logic, and Conditionals*
 
-**NO CLASS** on Monday Feb. 19, holiday 
+**NO CLASS** on Monday Feb. 19, holiday \
+**[VIDEOS POSTED](https://github.com/mab253/cpp_spring24/blob/main/week3/resources.md)** for Feb 21/22 class
 
 **Assignments:** \
 zyBooks Week 3, Readings: DUE Feb. 21, 11:59pm \
