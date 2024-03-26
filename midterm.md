@@ -28,7 +28,7 @@ I will be using similarity checker tools to check to see if student work resembl
 There are usually many, many ways to solve the same problem! But for this exam, we're looking for an understanding of the foundational methods we've been studying. That said, if you have studied another C++ function or technique and you want to incorporate that into your code, you may use this **if you make a citation** about where you learned this method in your code comments, and explain a little bit about **why you chose to use this method over a technique that we learned this semester**.
 
 For example:
-- using #include <algorithm>, or other #include headers that we haven't used
+- using `#include <algorithm>`, or other #include headers that we haven't used
 - using `.reverse`, `.begin()`, `.end()`
 - using `.map()`
 - using `char&`
