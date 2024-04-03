@@ -257,7 +257,7 @@ It is **not acceptable** to:
 - Search for or solicit outright solutions to assessments online or elsewhere.
 - Split an assessment’s workload with another individual and combine your work.
 - Submit (after possibly modifying) the work of another individual
-- Use AI-based software that suggests or completes answers to specific questions or lines of code for specific lab problems, _unless given explicit permission_ (for mid-terms or researching final projects, for example).
+- Use AI-based software that suggests or completes answers to specific questions or lines of code for specific lab problems, _unless given explicit permission_ (for researching final projects, for example).
 
 _These terms modified and inspired by Harvard's CS50's academic honesty policy, [here](https://cs50.harvard.edu/x/2022/honesty/)._
 
