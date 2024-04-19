@@ -17,6 +17,7 @@ Check out the [xkcd cartoon "Up Goer Five"](https://xkcd.com/1133/). This a sche
 
 - If you complete 1 extra credit assignment, it can boost your grade half a "step" - going from B to B+, C+ to B-, B+ to A-, for example.
 - If your average in the class < 70% (but above 55%) and you complete 1 extra assignment, **you can receive a passing final grade in the class.**
+- You may do more than 1 extra credit assignment, but the maximum it will boost your grade is a half "step." So: doing 2 extra credit pieces does not mean a C will turn into a B. 
 - These assignments will still be graded - they need to be **original, thoughtful work** that you have put time and care into, in order to receive full points.
 - A quick note on A+: A+ is a rare grade in this class, not given to everyone with 97+%. If you have an A, doing an extra credit assignment does not guarantee an A+.
 - [Academic honesty](https://github.com/mab253/cpp_spring23/#academic-honesty-and-integrity), as always, applies. Do not plagiarize!
