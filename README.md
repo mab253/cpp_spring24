@@ -180,8 +180,8 @@ zyBooks Week 12, Readings + Lab: DUE May 5, 11:59pm **changed**
 *Algorithms*
 
 **Assignments:** \
-zyBooks Week 13, Readings: DUE May 10, 11:59pm \
-zyBooks Week 13 Lab: DUE May 10, 11:59pm
+zyBooks Week 13, Readings: DUE May 10, 11:59pm **changed** \
+zyBooks Week 13 Lab: DUE May 12, 11:59pm **changed**
 
 ---
 
