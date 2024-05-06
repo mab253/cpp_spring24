@@ -1,6 +1,7 @@
 ## 🤖 other resources: week 13
 
 resources for search/sort algorithms, big O notation, and other topics this week:
+- 🎥 **video lecture** (monday class) [here](https://www.loom.com/share/547002c9d5b94f86b64dfabf8dca17e2)
 - 🖥️**in-class code** binary search w/recursion: https://replit.com/@mab253/binarySearch-recursion#main.cpp
 - short video on  [Big O Notation](https://youtu.be/Q_1M2JaijjQ), from Reducible on YouTube
 - [Binary Search in 100 Seconds](https://www.youtube.com/watch?v=MFhxShGxHWc), visualization from Fireship on Youtube
